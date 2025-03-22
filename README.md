@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **iOS and macOS development** 📱💻
+- 🌱 I’m currently learning **iOS and macOS development** at **Apple Developer Academy | Mackenzie** 📱💻
 - 📫 How to reach me: **ptssar22@gmail.com** ✉️
 - ⚡ Fun fact: I’m a piano teacher 🎹 and a Computer Science student 🎓
 
