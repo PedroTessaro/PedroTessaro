@@ -1,12 +1,12 @@
 # Hi 👋, I'm Pedro Tessaro
 
-### A passionate backend developer from Brazil 🇧🇷
+### A passionate iOS developer from Brazil 🇧🇷
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **iOS and macOS development** at **Apple Developer Academy | Mackenzie** 📱💻
+- 🌱 I’m currently learning **iOS, macOS, visionOS and watchOS development** at **Apple Developer Academy | Mackenzie** 📱💻
 - 📫 How to reach me: **ptssar22@gmail.com** ✉️
 - ⚡ Fun fact: I’m a piano teacher 🎹 and a Computer Science student 🎓
 
