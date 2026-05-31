@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Tessaro
 
-### A passionate iOS developer from Brazil 🇧🇷
+### A passionate iOS and Low-Level systems developer from Brazil 🇧🇷
 
 ---
 
@@ -88,14 +88,4 @@
   </a> 
 </p>
 
----
-
-### 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroTessaro&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroTessaro&layout=compact&theme=dark)
-
----
-
-⭐️ From [Pedro Tessaro](https://github.com/yourusername)
+⭐️ From [Pedro Tessaro](https://github.com/PedroTessaro)
