@@ -1,8 +1,3 @@
-<p> wrappers are load-bearing. GitHub doesn't wrap consecutive HTML blocks
-  in paragraphs, and <sub> is inline with no margin of its own, so without them
-  the caption sits flush against the image.
--->
-
 <p>
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://pedrotessaro.vercel.app/terminal.svg?theme=light">
